@@ -21,6 +21,6 @@ Open `index.html` in any browser to view the card.
 - CSS3 (Flexbox, box-shadow, border-radius, transitions)
 
 ## 📸 Preview
-
+![image_url](https://github.com/refat-cse/User-Profile-Card/blob/0f449d9417529e793aa920e56405d84f4faea20d/Screenshot%202026-06-24%20211842.png)
 ## 📝 Note
 This project was built as part of a Web Programming assessment focusing on semantic HTML structure and modern CSS card design.
