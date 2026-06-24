@@ -21,6 +21,6 @@ Open `index.html` in any browser to view the card.
 - CSS3 (Flexbox, box-shadow, border-radius, transitions)
 
 ## 📸 Preview
-![Image Alt](image_url)
+
 ## 📝 Note
 This project was built as part of a Web Programming assessment focusing on semantic HTML structure and modern CSS card design.
